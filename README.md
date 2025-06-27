@@ -3,8 +3,4 @@ MCP官网：https://modelcontextprotocol.io/introduction
 大部分老项目还在用jdk8
 该项目因此把官方包降级并增加了长链接
 
-<dependency>
-			<groupId>com.mcp</groupId>
-			<artifactId>mcp-for-java8-springboot-starter</artifactId>
-			<version>1.0.0.RELEASE</version>
-</dependency>
+需要具体使用的例子请联系微信：fengyamin666
